@@ -19,7 +19,7 @@ Analysis · Design · Problem-Solving  ·  Backend · Web · Mobile · Real-time
 
 ## 👋 About
 
-Senior Software Engineer defined by **method, not by any language or framework** — I work from first principles (analysis, system design, problem-solving) and **enter any software-engineering domain on demand**, including ones I've never used before. Across **6+ years** I've owned the full lifecycle (requirements → architecture → development → integration → testing → deployment → production support). Technical Lead at **Somow**, where I build and operate products used by **21,000+ people**. Technologies are evidence of range; **engineering is the discipline**.
+Senior Software Engineer defined by **method, not by any language or framework** — I work from first principles (analysis, system design, problem-solving) and **enter any software-engineering domain on demand**, including ones I've never used before. I'm an engineer who owns systems end-to-end — not an entry-level coder bound to one tool. Across **6+ years** I've owned the full lifecycle (requirements → architecture → development → integration → testing → deployment → production support). Technical Lead at **Somow**, where I build and operate products used by **21,000+ people**. Technologies are evidence of range; **engineering is the discipline**.
 
 The track record proves the method transfers: **Java → Flutter → Django → Next.js → multi-agent AI**, each adopted on demand and shipped to production — accelerated by AI-assisted workflows.
 
