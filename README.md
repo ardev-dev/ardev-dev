@@ -77,12 +77,13 @@ The flagship consultation platform I own & operate, live in production:
 
 | Product | What it is | Links |
 |---|---|---|
-| **Abber** | Consultation platform — native VoIP, real-time chat, ~30 domains | [App Store](https://apps.apple.com/app/id6461119454) · [Google Play](https://play.google.com/store/apps/details?id=co.abber_dev.abber_app) |
-| **Maskani** | Real-estate platform — Flutter · Next.js · Django · automation | [maskani.homes](https://maskani.homes) |
-| **Wisal** | Service marketplace — booking, payments, real-time | [App Store](https://apps.apple.com/app/id6755353238) · [Google Play](https://play.google.com/store/apps/details?id=io.somow.wisalapp) |
-| **Azbah** | Group wallet — double-entry accounting on Django REST | *App Store* |
+| **Abber** | Dream & vision interpretation marketplace — 21K+ users, live sessions, ~30 domains | [App Store](https://apps.apple.com/app/id6461119454) · [Google Play](https://play.google.com/store/apps/details?id=co.abber_dev.abber_app) · [abber.co](https://abber.co) |
+| **Wisal** | Consultation marketplace — verified vendors, VoIP, double-entry accounting | [App Store](https://apps.apple.com/app/id6755353238) · [Google Play](https://play.google.com/store/apps/details?id=io.somow.wisalapp) · [wisalapp.com](https://wisalapp.com) |
+| **Maskani** | Social real-estate platform — Flutter · Next.js · Django | [maskani.homes](https://maskani.homes) |
+| **Azbah** | Group expense-splitting & settle-up — double-entry ledger | [App Store](https://apps.apple.com/app/id6761391341) · [Google Play](https://play.google.com/store/apps/details?id=io.somow.azbah) · [azbah.somow.sa](https://azbah.somow.sa) |
+| **Manam** | Dream-interpretation app (Abber vertical) — RSA payments, subscriptions | [App Store](https://apps.apple.com/us/app/id6743326831) · [Google Play](https://play.google.com/store/apps/details?id=co.manams.manam) |
 
-➡️ **More at [ardev.dev](https://ardev.dev)** — 20+ products across consultation, real-estate, delivery, fintech & logistics.
+➡️ **More at [ardev.dev](https://ardev.dev)** — products across dream interpretation, consultation, real-estate, fintech, gaming & AI automation.
 
 ---
 
