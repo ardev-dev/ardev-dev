@@ -69,7 +69,7 @@ The flagship consultation platform I own & operate, live in production:
 
 **AI & Automation**
 
-![AI-Assisted](https://img.shields.io/badge/AI--Assisted_Development-0d1117?style=flat-square&logo=anthropic&logoColor=5eead4) ![Claude Code](https://img.shields.io/badge/Claude_Code-0d1117?style=flat-square&logo=anthropic&logoColor=5eead4) ![Cursor](https://img.shields.io/badge/Cursor-0d1117?style=flat-square&logo=cursor&logoColor=5eead4) ![Copilot](https://img.shields.io/badge/GitHub_Copilot-0d1117?style=flat-square&logo=githubcopilot&logoColor=5eead4) ![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-0d1117?style=flat-square&logo=openai&logoColor=5eead4) ![Automation](https://img.shields.io/badge/Automation-0d1117?style=flat-square&logo=n8n&logoColor=5eead4)
+![AI-Assisted](https://img.shields.io/badge/AI--Assisted_Development-0d1117?style=flat-square&logo=anthropic&logoColor=5eead4) ![Claude Code](https://img.shields.io/badge/Claude_Code-0d1117?style=flat-square&logo=anthropic&logoColor=5eead4) ![Cursor](https://img.shields.io/badge/Cursor-0d1117?style=flat-square&logo=cursor&logoColor=5eead4) ![Copilot](https://img.shields.io/badge/GitHub_Copilot-0d1117?style=flat-square&logo=githubcopilot&logoColor=5eead4) ![Codex](https://img.shields.io/badge/Codex-0d1117?style=flat-square&logo=openai&logoColor=5eead4) ![Gemini](https://img.shields.io/badge/Gemini-0d1117?style=flat-square&logo=googlegemini&logoColor=5eead4) ![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-0d1117?style=flat-square&logo=openai&logoColor=5eead4) ![Automation](https://img.shields.io/badge/Automation-0d1117?style=flat-square&logo=n8n&logoColor=5eead4)
 
 ---
 
