@@ -9,7 +9,7 @@
 Mobile · Web · Django backends · Payments · Real-time  ·  Technical Lead [@Somow](https://somow.sa)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ardev.dev-5eead4?style=for-the-badge&logo=vercel&logoColor=black)](https://ardev.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-m-420715227/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardev-dev)
 [![Email](https://img.shields.io/badge/me@ardev.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@ardev.dev)
 [![pub.dev](https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/publishers/ardev.dev/packages)
 
