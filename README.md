@@ -64,6 +64,10 @@ The flagship consultation platform I own & operate, live in production:
 
 ![HyperPay](https://img.shields.io/badge/HyperPay-1c2531?style=flat-square) ![Tap](https://img.shields.io/badge/Tap-1c2531?style=flat-square) ![Tamara](https://img.shields.io/badge/Tamara-1c2531?style=flat-square) ![Mada](https://img.shields.io/badge/Mada-1c2531?style=flat-square) ![STC Pay](https://img.shields.io/badge/STC_Pay-1c2531?style=flat-square) ![Apple Pay](https://img.shields.io/badge/Apple_Pay-1c2531?style=flat-square&logo=applepay&logoColor=white) ![Google Pay](https://img.shields.io/badge/Google_Pay-1c2531?style=flat-square&logo=googlepay&logoColor=white) ![PayPal](https://img.shields.io/badge/PayPal-1c2531?style=flat-square&logo=paypal&logoColor=white) ![Visa](https://img.shields.io/badge/Visa-1c2531?style=flat-square&logo=visa&logoColor=white) ![Mastercard](https://img.shields.io/badge/Mastercard-1c2531?style=flat-square&logo=mastercard&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-1c2531?style=flat-square&logo=stripe&logoColor=white) ![3D Secure](https://img.shields.io/badge/3D_Secure-1c2531?style=flat-square)
 
+**AI & Automation**
+
+![AI-Assisted](https://img.shields.io/badge/AI--Assisted_Development-0d1117?style=flat-square&logo=anthropic&logoColor=5eead4) ![Claude Code](https://img.shields.io/badge/Claude_Code-0d1117?style=flat-square&logo=anthropic&logoColor=5eead4) ![Cursor](https://img.shields.io/badge/Cursor-0d1117?style=flat-square&logo=cursor&logoColor=5eead4) ![Copilot](https://img.shields.io/badge/GitHub_Copilot-0d1117?style=flat-square&logo=githubcopilot&logoColor=5eead4) ![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-0d1117?style=flat-square&logo=openai&logoColor=5eead4) ![Automation](https://img.shields.io/badge/Automation-0d1117?style=flat-square&logo=n8n&logoColor=5eead4)
+
 ---
 
 ## 🚀 Selected Work
