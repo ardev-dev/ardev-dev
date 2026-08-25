@@ -83,7 +83,7 @@ The flagship consultation platform I own & operate, live in production:
 | **Azbah** | Group expense-splitting & settle-up — double-entry ledger | [App Store](https://apps.apple.com/app/id6761391341) · [Google Play](https://play.google.com/store/apps/details?id=io.somow.azbah) · [azbah.somow.sa](https://azbah.somow.sa) |
 | **Manam** | Dream-interpretation app (Abber vertical) — RSA payments, subscriptions | [App Store](https://apps.apple.com/us/app/id6743326831) · [Google Play](https://play.google.com/store/apps/details?id=co.manams.manam) |
 
-➡️ **More at [ardev.dev](https://ardev.dev)** — products across dream interpretation, consultation, real-estate, fintech, gaming & AI automation.
+➡️ **More at [ardev.dev](https://ardev.dev)** — across **12 product organizations**: dream interpretation, consultation, real-estate, delivery & logistics ([Wasselak](https://github.com/wasselak-com) · [Truck-go](https://github.com/Truck-go)), fintech, gaming & AI automation.
 
 ---
 
