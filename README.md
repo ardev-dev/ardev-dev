@@ -4,9 +4,9 @@
 
 ### Senior Software Engineer
 
-**I build systems end-to-end — from requirements to production.**
+**Engineering by method, not by framework — I enter any software domain on demand.**
 
-Mobile · Web · Django backends · Payments · Real-time  ·  Technical Lead [@Somow](https://somow.sa)
+Analysis · Design · Problem-Solving  ·  Backend · Web · Mobile · Real-time · AI  ·  Technical Lead [@Somow](https://somow.sa)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ardev.dev-5eead4?style=for-the-badge&logo=vercel&logoColor=black)](https://ardev.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardev-dev)
@@ -19,14 +19,14 @@ Mobile · Web · Django backends · Payments · Real-time  ·  Technical Lead [@
 
 ## 👋 About
 
-Senior Software Engineer with **6+ years** owning the **full software-development lifecycle** — requirements, architecture, development, integration, testing, deployment, and production support. Technical Lead at **Somow**, where I build and operate products used by **21,000+ people** and coordinate the third-party services behind them. I care about clean architecture, reliability, and shipping things that hold up in production.
+Senior Software Engineer defined by **method, not by any language or framework** — I work from first principles (analysis, system design, problem-solving) and **enter any software-engineering domain on demand**, including ones I've never used before. Across **6+ years** I've owned the full lifecycle (requirements → architecture → development → integration → testing → deployment → production support). Technical Lead at **Somow**, where I build and operate products used by **21,000+ people**. Technologies are evidence of range; **engineering is the discipline**.
 
-**Software engineer first — languages are tools, not identity.** Grounded in engineering principles, I adopt any new language or stack quickly and ship production-grade software, accelerated by AI-assisted workflows.
+The track record proves the method transfers: **Java → Flutter → Django → Next.js → multi-agent AI**, each adopted on demand and shipped to production — accelerated by AI-assisted workflows.
 
 ```text
-Focus      ·  Systems end-to-end — turning business requirements into production software
-Backbone   ·  Django REST · real-time · payments · mobile + web + backend
-Principle  ·  Language-agnostic — I learn whatever the problem needs, fast
+Method     ·  First principles — analysis, system design, problem-solving
+Backbone   ·  Django REST · real-time · payments · mobile + web + backend + AI
+Principle  ·  Enter any domain on demand — I learn whatever the problem needs, fast
 Scale      ·  ~1M+ lines authored · 72 repositories · 12 product ventures
 ```
 
