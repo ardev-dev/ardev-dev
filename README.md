@@ -1,120 +1,90 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0175C2&height=120&section=header"/>
-
 <div align="center">
 
-# Abdulrahman M.
+# Abdulrahman Morshed
 
-**Senior Software Engineer** · Buraydah, Qassim, Saudi Arabia
+### Senior Software Engineer
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-m-420715227/)
-[![Email](https://img.shields.io/badge/-Email-3693F3?style=flat&logo=gmail&logoColor=white)](mailto:me@ardev.dev)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ardev-dev)
-[![pub.dev](https://img.shields.io/badge/-pub.dev-02569B?style=flat&logo=dart&logoColor=white)](https://pub.dev/packages/flutter_websocket_manager)
+**I build systems end-to-end — from requirements to production.**
+
+Mobile · Web · Django backends · Payments · Real-time  ·  Technical Lead [@Somow](https://somow.sa)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ardev.dev-5eead4?style=for-the-badge&logo=vercel&logoColor=black)](https://ardev.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-m-420715227/)
+[![Email](https://img.shields.io/badge/me@ardev.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@ardev.dev)
+[![pub.dev](https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/publishers/ardev.dev/packages)
 
 </div>
 
 ---
 
-### About
+## 👋 About
 
-Senior Software Engineer with **5+ years** owning the **full software-development lifecycle** — requirements, architecture, development, integration, testing, deployment, and production support. Technical Lead at **Somow**, where I ship **5 production mobile apps + 3 Flutter Web admin panels** and own the **Django REST backends** (Channels / Daphne, Celery, Redis, Docker, AWS S3) behind them. Across my portfolio I've authored **~1M lines of code** across **14+ apps & services** (**207+ BLoCs/Cubits**). I'm also the primary technical liaison with third-party platform partners — **Tamara, Meta, and Huawei**.
+Senior Software Engineer with **5+ years** owning the **full software-development lifecycle** — requirements, architecture, development, integration, testing, deployment, and production support. Technical Lead at **Somow**, where I build and operate products used by **tens of thousands** and coordinate the third-party services behind them. I care about clean architecture, reliability, and shipping things that hold up in production.
 
----
-
-### Tech Stack
-
-```
-Lifecycle  · Requirements → Design → Integration → Testing → Deployment → Support
-Backend    · Python · Django · DRF · Channels/Daphne · Celery · Redis · Docker · AWS S3 · PostgreSQL
-Web·Mobile · Next.js · TypeScript · React · Flutter · Dart · Swift · Kotlin · Clean Architecture · BLoC
-Real-Time  · WebRTC (Agora) · WebSocket · Firebase · CI/CD · Sentry
-Payments   · HyperPay · Tap · Tamara · Mada · STC Pay · Apple Pay · Google Pay · PayPal · Visa · Mastercard · Stripe · 3D Secure
-Security   · Nafath · Absher · Biometric · RSA · JWT · OAuth 2.0
+```text
+Focus     ·  Systems end-to-end — turning business requirements into production software
+Backbone  ·  Django REST · real-time · payments · mobile + web + backend
+Scale     ·  ~1M+ lines authored · 72 repositories · 12 product ventures
 ```
 
 ---
 
-### Production Apps
+## 🛠️ Tech Stack
 
-**Senior Software Engineer & Technical Lead** at Somow *(May 2022 – Present)*
+**Lifecycle**
 
-<table>
-<tr>
-<td width="33%">
+![Analysis](https://img.shields.io/badge/Requirements-0d1117?style=flat-square) ![Design](https://img.shields.io/badge/Architecture-0d1117?style=flat-square) ![Integration](https://img.shields.io/badge/Integration-0d1117?style=flat-square) ![Testing](https://img.shields.io/badge/Testing/QA-0d1117?style=flat-square) ![Deployment](https://img.shields.io/badge/Deployment-0d1117?style=flat-square) ![Support](https://img.shields.io/badge/Production_Support-0d1117?style=flat-square)
 
-**Abber** — Consulting Marketplace
+**Backend & Data**
 
-`24 Modules` `41 BLoCs` `Agora RTC` `Django Backend`
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=5eead4) ![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=5eead4) ![DRF](https://img.shields.io/badge/Django_REST-0d1117?style=flat-square&logo=django&logoColor=5eead4) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=5eead4) ![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=5eead4) ![Celery](https://img.shields.io/badge/Celery-0d1117?style=flat-square&logo=celery&logoColor=5eead4) ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=5eead4) ![AWS](https://img.shields.io/badge/AWS_S3-0d1117?style=flat-square&logo=amazonaws&logoColor=5eead4)
 
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=co.abber_dev.abber_app)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/app/id6461119454)
+**Web & Mobile**
 
-</td>
-<td width="33%">
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=5eead4) ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=5eead4) ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=5eead4) ![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=5eead4) ![Dart](https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=5eead4) ![Swift](https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=5eead4) ![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=5eead4)
 
-**Manam** — Dream Interpretation
+**Real-time & DevOps**
 
-`14 Modules` `19 BLoCs` `RSA Payments`
+![WebRTC](https://img.shields.io/badge/WebRTC-0d1117?style=flat-square&logo=webrtc&logoColor=5eead4) ![WebSocket](https://img.shields.io/badge/WebSocket-0d1117?style=flat-square&logo=socketdotio&logoColor=5eead4) ![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=5eead4) ![GitHub Actions](https://img.shields.io/badge/CI/CD-0d1117?style=flat-square&logo=githubactions&logoColor=5eead4) ![Sentry](https://img.shields.io/badge/Sentry-0d1117?style=flat-square&logo=sentry&logoColor=5eead4)
 
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=co.manams.manam)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/id6743326831)
+**Payments & Fintech**
 
-</td>
-<td width="33%">
-
-**Wisal** — Service Marketplace
-
-`11 Modules` `26 BLoCs` `5 Payment Methods`
-
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=io.somow.wisalapp)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/app/id6755353238)
-
-</td>
-</tr>
-<tr>
-<td width="33%">
-
-**Azbah** — Group Wallet *(Full-Stack)*
-
-`Flutter + Django` `Geofencing` `Maps`
-
-</td>
-<td width="33%">
-
-**Moqawlat** — Contracting ERP
-
-`14 Modules` `Multi-Currency` `Accounting`
-
-</td>
-<td width="33%">
-
-**+ 3 Flutter Web Admin Panels**
-
-`Abber Admin · Wisal Admin · Azbah Admin`
-
-</td>
-</tr>
-</table>
+![HyperPay](https://img.shields.io/badge/HyperPay-1c2531?style=flat-square) ![Tap](https://img.shields.io/badge/Tap-1c2531?style=flat-square) ![Tamara](https://img.shields.io/badge/Tamara-1c2531?style=flat-square) ![Mada](https://img.shields.io/badge/Mada-1c2531?style=flat-square) ![STC Pay](https://img.shields.io/badge/STC_Pay-1c2531?style=flat-square) ![Apple Pay](https://img.shields.io/badge/Apple_Pay-1c2531?style=flat-square&logo=applepay&logoColor=white) ![Google Pay](https://img.shields.io/badge/Google_Pay-1c2531?style=flat-square&logo=googlepay&logoColor=white) ![PayPal](https://img.shields.io/badge/PayPal-1c2531?style=flat-square&logo=paypal&logoColor=white) ![Visa](https://img.shields.io/badge/Visa-1c2531?style=flat-square&logo=visa&logoColor=white) ![Mastercard](https://img.shields.io/badge/Mastercard-1c2531?style=flat-square&logo=mastercard&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-1c2531?style=flat-square&logo=stripe&logoColor=white) ![3D Secure](https://img.shields.io/badge/3D_Secure-1c2531?style=flat-square)
 
 ---
 
-### Open Source
+## 🚀 Selected Work
 
-[![flutter_websocket_manager](https://img.shields.io/pub/v/flutter_websocket_manager?label=flutter_websocket_manager&logo=dart&logoColor=white&color=02569B)](https://pub.dev/packages/flutter_websocket_manager)
-[![Pub Points](https://img.shields.io/pub/points/flutter_websocket_manager?logo=dart&logoColor=white&color=02569B)](https://pub.dev/packages/flutter_websocket_manager)
+| Product | What it is | Links |
+|---|---|---|
+| **Abber** | Consultation platform — native VoIP, real-time chat, ~30 domains | [App Store](https://apps.apple.com/app/id6461119454) · [Google Play](https://play.google.com/store/apps/details?id=co.abber_dev.abber_app) |
+| **Maskani** | Real-estate platform — Flutter · Next.js · Django · automation | [maskani.homes](https://maskani.homes) |
+| **Wisal** | Service marketplace — booking, payments, real-time | [App Store](https://apps.apple.com/app/id6755353238) · [Google Play](https://play.google.com/store/apps/details?id=io.somow.wisalapp) |
+| **Azbah** | Group wallet — double-entry accounting on Django REST | *App Store* |
 
-**[flutter_websocket_manager](https://pub.dev/packages/flutter_websocket_manager)** — Production WebSocket connection manager for Flutter · 155/160 pub points · auto-reconnection, lifecycle-aware state, exponential backoff · Android · iOS · macOS · Linux · Windows
-
-Additional packages: `flutter_zoom_meeting_sdk` · `hyperpay_flutter_plugin` · `intl_phone_utils` · `custom_socket_push_notifications_flutter`
+➡️ **More at [ardev.dev](https://ardev.dev)** — 20+ products across consultation, real-estate, delivery, fintech & logistics.
 
 ---
 
-### Stats
+## 📦 Open Source · [pub.dev/ardev.dev](https://pub.dev/publishers/ardev.dev/packages)
+
+[![video_compressor_plus](https://img.shields.io/pub/v/video_compressor_plus?label=video_compressor_plus&style=flat-square&logo=dart&color=0175C2)](https://pub.dev/packages/video_compressor_plus)
+&nbsp;compress/trim/mute videos with native encoders — no FFmpeg.
+
+[![flutter_websocket_manager](https://img.shields.io/pub/v/flutter_websocket_manager?label=flutter_websocket_manager&style=flat-square&logo=dart&color=0175C2)](https://pub.dev/packages/flutter_websocket_manager)
+&nbsp;production WebSocket manager — auto-reconnect, lifecycle-aware. **155/160**.
+
+[![solar_community_icons](https://img.shields.io/pub/v/solar_community_icons?label=solar_community_icons&style=flat-square&logo=dart&color=0175C2)](https://pub.dev/packages/solar_community_icons)
+&nbsp;2,500+ Solar icons for Flutter. **160/160**.
+
+---
+
+## 📊 GitHub
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ardev-dev&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true"/>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ardev-dev&theme=default&hide_border=true"/>
+![Stats](https://github-readme-stats.vercel.app/api?username=ardev-dev&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&hide=contribs&title_color=5eead4&icon_color=5eead4)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ardev-dev&layout=compact&hide_border=true&theme=tokyonight&title_color=5eead4)
 
 </div>
 
@@ -122,8 +92,8 @@ Additional packages: `flutter_zoom_meeting_sdk` · `hyperpay_flutter_plugin` · 
 
 <div align="center">
 
-**72 repositories** · **12 product ventures** · **1M+ lines of authored code** · **5+ production apps** · **mobile + web + backend**
+**1M+ lines authored** · **72 repositories** · **12 product ventures** · **mobile + web + backend**
+
+<sub>📍 Buraydah, Saudi Arabia · Open to senior software engineering & technical leadership roles</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0175C2&height=100&section=footer"/>
