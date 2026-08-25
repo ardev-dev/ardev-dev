@@ -19,7 +19,7 @@ Mobile · Web · Django backends · Payments · Real-time  ·  Technical Lead [@
 
 ## 👋 About
 
-Senior Software Engineer with **5+ years** owning the **full software-development lifecycle** — requirements, architecture, development, integration, testing, deployment, and production support. Technical Lead at **Somow**, where I build and operate products used by **tens of thousands** and coordinate the third-party services behind them. I care about clean architecture, reliability, and shipping things that hold up in production.
+Senior Software Engineer with **6+ years** owning the **full software-development lifecycle** — requirements, architecture, development, integration, testing, deployment, and production support. Technical Lead at **Somow**, where I build and operate products used by **tens of thousands** and coordinate the third-party services behind them. I care about clean architecture, reliability, and shipping things that hold up in production.
 
 ```text
 Focus     ·  Systems end-to-end — turning business requirements into production software
