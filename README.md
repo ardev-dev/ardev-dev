@@ -77,6 +77,9 @@ Scale     ·  ~1M+ lines authored · 72 repositories · 12 product ventures
 [![solar_community_icons](https://img.shields.io/pub/v/solar_community_icons?label=solar_community_icons&style=flat-square&logo=dart&color=0175C2)](https://pub.dev/packages/solar_community_icons)
 &nbsp;2,500+ Solar icons for Flutter. **160/160**.
 
+![shared_utils](https://img.shields.io/badge/shared__utils-internal_framework-0d1117?style=flat-square&logo=flutter&logoColor=5eead4)
+&nbsp;my internal Flutter framework reused across every production app — typed networking, WebSocket/SSE managers, persistent device identity, formatters, media pickers.
+
 ---
 
 ## 📊 GitHub
