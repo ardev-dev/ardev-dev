@@ -19,13 +19,26 @@ Mobile · Web · Django backends · Payments · Real-time  ·  Technical Lead [@
 
 ## 👋 About
 
-Senior Software Engineer with **6+ years** owning the **full software-development lifecycle** — requirements, architecture, development, integration, testing, deployment, and production support. Technical Lead at **Somow**, where I build and operate products used by **tens of thousands** and coordinate the third-party services behind them. I care about clean architecture, reliability, and shipping things that hold up in production.
+Senior Software Engineer with **6+ years** owning the **full software-development lifecycle** — requirements, architecture, development, integration, testing, deployment, and production support. Technical Lead at **Somow**, where I build and operate products used by **21,000+ people** and coordinate the third-party services behind them. I care about clean architecture, reliability, and shipping things that hold up in production.
 
 ```text
 Focus     ·  Systems end-to-end — turning business requirements into production software
 Backbone  ·  Django REST · real-time · payments · mobile + web + backend
 Scale     ·  ~1M+ lines authored · 72 repositories · 12 product ventures
 ```
+
+---
+
+## 📈 Abber — Production Scale
+
+The flagship consultation platform I own & operate, live in production:
+
+![Users](https://img.shields.io/badge/Users-21%2C000%2B-6366f1?style=flat-square&labelColor=0d1117)
+![Consultations](https://img.shields.io/badge/Consultation_Orders-40%2C000%2B-7c5cf0?style=flat-square&labelColor=0d1117)
+![Messages](https://img.shields.io/badge/Real--time_Messages-600K%2B-8b5cf6?style=flat-square&labelColor=0d1117)
+![Notifications](https://img.shields.io/badge/Notifications-2.2M%2B-a78bfa?style=flat-square&labelColor=0d1117)
+
+<sub>Also in production: **53K+** wallet transactions · **26K+** double-entry journal entries · **16K+** ratings · **327K+** user visits.</sub>
 
 ---
 
