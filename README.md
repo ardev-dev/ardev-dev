@@ -19,9 +19,11 @@ Analysis · Design · Problem-Solving  ·  Backend · Web · Mobile · Real-time
 
 ## 👋 About
 
-Hand me a problem in a stack I've never touched, and I'll ship production software in it. After **6+ years** I've learned that engineering is a method, not a framework: analysis, system design, and problem-solving carry across every language. I own systems from first idea to production, and I'm a **senior engineer, not an entry-level coder**. Today I'm Technical Lead at **Somow**, where I build and operate products used by **21,000+ people**.
+I'm a **Senior Software Engineer** who builds and operates production systems, not just features. Over the past **six years** I've taken products from an empty repository to live services people rely on daily, across mobile, web, and **Django** backends.
 
-My range is deliberate: **Java → Flutter → Django → Next.js → multi-agent AI**, each one picked up as the work needed it. I lean on AI-assisted workflows to move faster without ever dropping the engineering bar.
+Today I lead engineering at **Somow** and run **Abber**, a platform serving more than **21,000 users** and **57,000 orders** that has stayed online with **zero downtime for over six months**. I rely on method more than on any single framework, so I can move into a new language or domain and deliver in it.
+
+I've shipped in **Java, Flutter, Django, Next.js, and a multi-agent AI system**, and I use modern AI tools such as Claude Code, Cursor, Copilot, Codex, and Gemini to work faster without lowering the engineering bar.
 
 ```text
 Method     ·  First principles: analysis, system design, problem-solving
