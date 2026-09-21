@@ -4,7 +4,7 @@
 
 ### Senior Software Engineer
 
-**Engineering by method, not by framework — I enter any software domain on demand.**
+**Engineering by method, not by framework. I enter any software domain on demand.**
 
 Analysis · Design · Problem-Solving  ·  Backend · Web · Mobile · Real-time · AI  ·  Technical Lead [@Somow](https://somow.sa)
 
@@ -19,22 +19,22 @@ Analysis · Design · Problem-Solving  ·  Backend · Web · Mobile · Real-time
 
 ## 👋 About
 
-Senior Software Engineer defined by **method, not by any language or framework** — I work from first principles (analysis, system design, problem-solving) and **enter any software-engineering domain on demand**, including ones I've never used before. I'm an engineer who owns systems end-to-end — not an entry-level coder bound to one tool. Across **6+ years** I've owned the full lifecycle (requirements → architecture → development → integration → testing → deployment → production support). Technical Lead at **Somow**, where I build and operate products used by **21,000+ people**. Technologies are evidence of range; **engineering is the discipline**.
+Hand me a problem in a stack I've never touched, and I'll ship production software in it. After **6+ years** I've learned that engineering is a method, not a framework: analysis, system design, and problem-solving carry across every language. I own systems from first idea to production, and I'm a **senior engineer, not an entry-level coder**. Today I'm Technical Lead at **Somow**, where I build and operate products used by **21,000+ people**.
 
-The track record proves the method transfers: **Java → Flutter → Django → Next.js → multi-agent AI**, each adopted on demand and shipped to production — accelerated by AI-assisted workflows.
+My range is deliberate: **Java → Flutter → Django → Next.js → multi-agent AI**, each one picked up as the work needed it. I lean on AI-assisted workflows to move faster without ever dropping the engineering bar.
 
 ```text
-Method     ·  First principles — analysis, system design, problem-solving
+Method     ·  First principles: analysis, system design, problem-solving
 Backbone   ·  Django REST · real-time · payments · mobile + web + backend + AI
-Principle  ·  Enter any domain on demand — I learn whatever the problem needs, fast
-Scale      ·  ~1M+ lines authored · 72 repositories · 12 product ventures
+Principle  ·  Enter any domain on demand; I learn whatever the problem needs, fast
+Scale      ·  7.6M+ lines authored · 133 repositories · 12 product ventures
 ```
 
 ---
 
-## 📈 Abber — Production Scale
+## 📈 Abber · Production Scale
 
-The flagship consultation platform I own & operate, live in production:
+The flagship platform I own and operate, live in production:
 
 ![Users](https://img.shields.io/badge/Users-21%2C000%2B-6366f1?style=flat-square&labelColor=0d1117)
 ![Consultations](https://img.shields.io/badge/Consultation_Orders-40%2C000%2B-7c5cf0?style=flat-square&labelColor=0d1117)
@@ -77,29 +77,29 @@ The flagship consultation platform I own & operate, live in production:
 
 | Product | What it is | Links |
 |---|---|---|
-| **Abber** | Dream & vision interpretation marketplace — 21K+ users, live sessions, ~30 domains | [App Store](https://apps.apple.com/app/id6461119454) · [Google Play](https://play.google.com/store/apps/details?id=co.abber_dev.abber_app) · [abber.co](https://abber.co) |
-| **Wisal** | Consultation marketplace — verified vendors, VoIP, double-entry accounting | [App Store](https://apps.apple.com/app/id6755353238) · [Google Play](https://play.google.com/store/apps/details?id=io.somow.wisalapp) · [wisalapp.com](https://wisalapp.com) |
-| **Maskani** | Social real-estate platform — Flutter · Next.js · Django | [maskani.homes](https://maskani.homes) |
-| **Azbah** | Group expense-splitting & settle-up — double-entry ledger | [App Store](https://apps.apple.com/app/id6761391341) · [Google Play](https://play.google.com/store/apps/details?id=io.somow.azbah) · [azbah.somow.sa](https://azbah.somow.sa) |
-| **Manam** | Dream-interpretation app (Abber vertical) — RSA payments, subscriptions | [App Store](https://apps.apple.com/us/app/id6743326831) · [Google Play](https://play.google.com/store/apps/details?id=co.manams.manam) |
+| **Abber** | Dream & vision interpretation marketplace: 21K+ users, live sessions, ~30 domains | [App Store](https://apps.apple.com/app/id6461119454) · [Google Play](https://play.google.com/store/apps/details?id=co.abber_dev.abber_app) · [abber.co](https://abber.co) |
+| **Wisal** | Consultation marketplace: verified vendors, VoIP, double-entry accounting | [App Store](https://apps.apple.com/app/id6755353238) · [Google Play](https://play.google.com/store/apps/details?id=io.somow.wisalapp) · [wisalapp.com](https://wisalapp.com) |
+| **Maskani** | Social real-estate platform on Flutter · Next.js · Django | [maskani.homes](https://maskani.homes) |
+| **Azbah** | Group expense-splitting & settle-up on a double-entry ledger | [App Store](https://apps.apple.com/app/id6761391341) · [Google Play](https://play.google.com/store/apps/details?id=io.somow.azbah) · [azbah.somow.sa](https://azbah.somow.sa) |
+| **Manam** | Dream-interpretation app (Abber vertical): RSA payments, subscriptions | [App Store](https://apps.apple.com/us/app/id6743326831) · [Google Play](https://play.google.com/store/apps/details?id=co.manams.manam) |
 
-➡️ **More at [ardev.dev](https://ardev.dev)** — across **12 product organizations**: dream interpretation, consultation, real-estate, delivery & logistics ([Wasselak](https://github.com/wasselak-com) · [Truck-go](https://github.com/Truck-go)), fintech, gaming & AI automation.
+➡️ **More at [ardev.dev](https://ardev.dev)**, across **12 product organizations**: dream interpretation, consultation, real-estate, delivery & logistics ([Wasselak](https://github.com/wasselak-com) · [Truck-go](https://github.com/Truck-go)), fintech, gaming & AI automation.
 
 ---
 
 ## 📦 Open Source · [pub.dev/ardev.dev](https://pub.dev/publishers/ardev.dev/packages)
 
 [![video_compressor_plus](https://img.shields.io/pub/v/video_compressor_plus?label=video_compressor_plus&style=flat-square&logo=dart&color=0175C2)](https://pub.dev/packages/video_compressor_plus)
-&nbsp;compress/trim/mute videos with native encoders — no FFmpeg.
+&nbsp;compress/trim/mute videos with native encoders, no FFmpeg.
 
 [![flutter_websocket_manager](https://img.shields.io/pub/v/flutter_websocket_manager?label=flutter_websocket_manager&style=flat-square&logo=dart&color=0175C2)](https://pub.dev/packages/flutter_websocket_manager)
-&nbsp;production WebSocket manager — auto-reconnect, lifecycle-aware. **155/160**.
+&nbsp;production WebSocket manager with auto-reconnect, lifecycle-aware. **155/160**.
 
 [![solar_community_icons](https://img.shields.io/pub/v/solar_community_icons?label=solar_community_icons&style=flat-square&logo=dart&color=0175C2)](https://pub.dev/packages/solar_community_icons)
 &nbsp;2,500+ Solar icons for Flutter. **160/160**.
 
 ![shared_utils](https://img.shields.io/badge/shared__utils-internal_framework-0d1117?style=flat-square&logo=flutter&logoColor=5eead4)
-&nbsp;my internal Flutter framework reused across every production app — typed networking, WebSocket/SSE managers, persistent device identity, formatters, media pickers.
+&nbsp;my internal Flutter framework reused across every production app: typed networking, WebSocket/SSE managers, persistent device identity, formatters, media pickers.
 
 ---
 
@@ -116,7 +116,7 @@ The flagship consultation platform I own & operate, live in production:
 
 <div align="center">
 
-**1M+ lines authored** · **72 repositories** · **12 product ventures** · **mobile + web + backend**
+**7.6M+ lines authored** · **133 repositories** · **12 product ventures** · **mobile + web + backend**
 
 <sub>📍 Buraydah, Saudi Arabia · Open to senior software engineering & technical leadership roles</sub>
 
