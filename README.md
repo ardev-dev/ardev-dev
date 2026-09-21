@@ -34,12 +34,13 @@ Scale      ·  7.6M+ lines authored · 133 repositories · 12 product ventures
 
 ## 📈 Abber · Production Scale
 
-The flagship platform I own and operate, live in production:
+The flagship platform I own and operate, live in production for 6+ months with zero downtime:
 
 ![Users](https://img.shields.io/badge/Users-21%2C000%2B-6366f1?style=flat-square&labelColor=0d1117)
-![Consultations](https://img.shields.io/badge/Consultation_Orders-40%2C000%2B-7c5cf0?style=flat-square&labelColor=0d1117)
+![Consultations](https://img.shields.io/badge/Consultation_Orders-57%2C000%2B-7c5cf0?style=flat-square&labelColor=0d1117)
 ![Messages](https://img.shields.io/badge/Real--time_Messages-600K%2B-8b5cf6?style=flat-square&labelColor=0d1117)
 ![Notifications](https://img.shields.io/badge/Notifications-2.2M%2B-a78bfa?style=flat-square&labelColor=0d1117)
+![Uptime](https://img.shields.io/badge/Uptime-100%25_·_6%2B_months-22c55e?style=flat-square&labelColor=0d1117)
 
 <sub>Also in production: **53K+** wallet transactions · **26K+** double-entry journal entries · **16K+** ratings · **327K+** user visits.</sub>
 
