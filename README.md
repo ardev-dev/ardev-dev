@@ -21,7 +21,7 @@ Analysis · Design · Problem-Solving  ·  Backend · Web · Mobile · Real-time
 
 I'm a **Senior Software Engineer** who builds and operates production systems, not just features. Over the past **six years** I've taken products from an empty repository to live services people rely on daily, across mobile, web, and **Django** backends.
 
-Today I lead engineering at **Somow** and run **Abber**, a platform serving more than **21,000 users** and **57,000 orders** that has stayed online with **zero downtime for over six months**. I rely on method more than on any single framework, so I can move into a new language or domain and deliver in it.
+Today I lead engineering at **Somow** and run **Abber**, a platform serving more than **21,000 users** and **57,000 orders** that has stayed online with **zero downtime for over six months**. I rely on method more than on any single framework, so I can move into a new language or domain and deliver in it. I also prepare and submit Somow's bids for **government tenders on Etimad**, from the RFP booklet through the technical and financial proposals.
 
 I've shipped in **Java, Flutter, Django, Next.js, and a multi-agent AI system**, and I use modern AI tools such as Claude Code, Cursor, Copilot, Codex, and Gemini to work faster without lowering the engineering bar.
 
@@ -73,6 +73,10 @@ The flagship platform I own and operate, live in production for 6+ months with z
 **AI & Automation**
 
 ![AI-Assisted](https://img.shields.io/badge/AI--Assisted_Development-0d1117?style=flat-square&logo=anthropic&logoColor=5eead4) ![Claude Code](https://img.shields.io/badge/Claude_Code-0d1117?style=flat-square&logo=anthropic&logoColor=5eead4) ![Cursor](https://img.shields.io/badge/Cursor-0d1117?style=flat-square&logo=cursor&logoColor=5eead4) ![Copilot](https://img.shields.io/badge/GitHub_Copilot-0d1117?style=flat-square&logo=githubcopilot&logoColor=5eead4) ![Codex](https://img.shields.io/badge/Codex-0d1117?style=flat-square&logo=openai&logoColor=5eead4) ![Gemini](https://img.shields.io/badge/Gemini-0d1117?style=flat-square&logo=googlegemini&logoColor=5eead4) ![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-0d1117?style=flat-square&logo=openai&logoColor=5eead4) ![Automation](https://img.shields.io/badge/Automation-0d1117?style=flat-square&logo=n8n&logoColor=5eead4)
+
+**Government Tenders**
+
+![Etimad](https://img.shields.io/badge/Etimad-1c2531?style=flat-square) ![Government Procurement](https://img.shields.io/badge/Government_Procurement-1c2531?style=flat-square) ![RFP Analysis](https://img.shields.io/badge/RFP_Analysis-1c2531?style=flat-square) ![Compliance Matrices](https://img.shields.io/badge/Compliance_Matrices-1c2531?style=flat-square) ![Technical Proposals](https://img.shields.io/badge/Technical_Proposals-1c2531?style=flat-square) ![Financial Proposals](https://img.shields.io/badge/Financial_Proposals-1c2531?style=flat-square) ![Pricing & Cost Models](https://img.shields.io/badge/Pricing_%26_Cost_Models-1c2531?style=flat-square)
 
 ---
 
