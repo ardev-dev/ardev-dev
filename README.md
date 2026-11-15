@@ -100,7 +100,7 @@ The flagship platform I own and operate, live in production for 6+ months with z
 &nbsp;compress/trim/mute videos with native encoders, no FFmpeg.
 
 [![flutter_websocket_manager](https://img.shields.io/pub/v/flutter_websocket_manager?label=flutter_websocket_manager&style=flat-square&logo=dart&color=0175C2)](https://pub.dev/packages/flutter_websocket_manager)
-&nbsp;production WebSocket manager with auto-reconnect, lifecycle-aware. **155/160**.
+&nbsp;WebSocket connection manager: headers and query params, text/JSON messages, connection-state callbacks. **160/160**.
 
 [![solar_community_icons](https://img.shields.io/pub/v/solar_community_icons?label=solar_community_icons&style=flat-square&logo=dart&color=0175C2)](https://pub.dev/packages/solar_community_icons)
 &nbsp;2,500+ Solar icons for Flutter. **160/160**.
