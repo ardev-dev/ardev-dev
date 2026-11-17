@@ -21,7 +21,7 @@ Analysis · Design · Problem-Solving  ·  Backend · Web · Mobile · Real-time
 
 I'm a **Senior Software Engineer** who builds and operates production systems, not just features. Over the past **six years** I've taken products from an empty repository to live services people rely on daily, across mobile, web, and **Django** backends.
 
-Today I lead engineering at **Somow** and run **Abber**, a platform serving more than **21,000 users** and **57,000 orders** that has stayed online with **zero downtime for over six months**. I rely on method more than on any single framework, so I can move into a new language or domain and deliver in it. I also prepare and submit Somow's bids for **government tenders on Etimad**, from the RFP booklet through the technical and financial proposals.
+Today I lead engineering at **Somow** and run **Abber**, a platform serving more than **23,000 users** and **47,000 orders** that has stayed online with **zero downtime for over six months**. I rely on method more than on any single framework, so I can move into a new language or domain and deliver in it. I also prepare and submit Somow's bids for **government tenders on Etimad**, from the RFP booklet through the technical and financial proposals.
 
 I've shipped in **Java, Flutter, Django, Next.js, and a multi-agent AI system**, and I use modern AI tools such as Claude Code, Cursor, Copilot, Codex, and Gemini to work faster without lowering the engineering bar.
 
@@ -40,11 +40,11 @@ The flagship platform I own and operate, live in production for 6+ months with z
 
 ![Users](https://img.shields.io/badge/Users-21%2C000%2B-6366f1?style=flat-square&labelColor=0d1117)
 ![Consultations](https://img.shields.io/badge/Consultation_Orders-57%2C000%2B-7c5cf0?style=flat-square&labelColor=0d1117)
-![Messages](https://img.shields.io/badge/Real--time_Messages-600K%2B-8b5cf6?style=flat-square&labelColor=0d1117)
-![Notifications](https://img.shields.io/badge/Notifications-2.2M%2B-a78bfa?style=flat-square&labelColor=0d1117)
+![Messages](https://img.shields.io/badge/Real--time_Messages-680K%2B-8b5cf6?style=flat-square&labelColor=0d1117)
+![Notifications](https://img.shields.io/badge/Notifications-2.8M%2B-a78bfa?style=flat-square&labelColor=0d1117)
 ![Uptime](https://img.shields.io/badge/Uptime-100%25_·_6%2B_months-22c55e?style=flat-square&labelColor=0d1117)
 
-<sub>Also in production: **53K+** wallet transactions · **26K+** double-entry journal entries · **16K+** ratings · **327K+** user visits.</sub>
+<sub>Also in production: **65K+** wallet transactions · **40K+** double-entry journal entries · **18K+** ratings · **430K+** user visits.</sub>
 
 ---
 
@@ -68,7 +68,7 @@ The flagship platform I own and operate, live in production for 6+ months with z
 
 **Payments & Fintech**
 
-![HyperPay](https://img.shields.io/badge/HyperPay-1c2531?style=flat-square) ![Tap](https://img.shields.io/badge/Tap-1c2531?style=flat-square) ![Tamara](https://img.shields.io/badge/Tamara-1c2531?style=flat-square) ![Mada](https://img.shields.io/badge/Mada-1c2531?style=flat-square) ![STC Pay](https://img.shields.io/badge/STC_Pay-1c2531?style=flat-square) ![Apple Pay](https://img.shields.io/badge/Apple_Pay-1c2531?style=flat-square&logo=applepay&logoColor=white) ![Google Pay](https://img.shields.io/badge/Google_Pay-1c2531?style=flat-square&logo=googlepay&logoColor=white) ![PayPal](https://img.shields.io/badge/PayPal-1c2531?style=flat-square&logo=paypal&logoColor=white) ![Visa](https://img.shields.io/badge/Visa-1c2531?style=flat-square&logo=visa&logoColor=white) ![Mastercard](https://img.shields.io/badge/Mastercard-1c2531?style=flat-square&logo=mastercard&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-1c2531?style=flat-square&logo=stripe&logoColor=white) ![3D Secure](https://img.shields.io/badge/3D_Secure-1c2531?style=flat-square)
+![HyperPay](https://img.shields.io/badge/HyperPay-1c2531?style=flat-square) ![Tap](https://img.shields.io/badge/Tap-1c2531?style=flat-square) ![Tamara](https://img.shields.io/badge/Tamara-1c2531?style=flat-square) ![Mada](https://img.shields.io/badge/Mada-1c2531?style=flat-square) ![STC Pay](https://img.shields.io/badge/STC_Pay-1c2531?style=flat-square) ![Apple Pay](https://img.shields.io/badge/Apple_Pay-1c2531?style=flat-square&logo=applepay&logoColor=white) ![Google Pay](https://img.shields.io/badge/Google_Pay-1c2531?style=flat-square&logo=googlepay&logoColor=white) ![PayPal](https://img.shields.io/badge/PayPal-1c2531?style=flat-square&logo=paypal&logoColor=white) ![Visa](https://img.shields.io/badge/Visa-1c2531?style=flat-square&logo=visa&logoColor=white) ![Mastercard](https://img.shields.io/badge/Mastercard-1c2531?style=flat-square&logo=mastercard&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-1c2531?style=flat-square&logo=stripe&logoColor=white) ![Network International](https://img.shields.io/badge/Network_International-1c2531?style=flat-square) ![Samsung Pay](https://img.shields.io/badge/Samsung_Pay-1c2531?style=flat-square&logo=samsungpay&logoColor=white) ![3D Secure](https://img.shields.io/badge/3D_Secure-1c2531?style=flat-square)
 
 **AI & Automation**
 
@@ -84,7 +84,7 @@ The flagship platform I own and operate, live in production for 6+ months with z
 
 | Product | What it is | Links |
 |---|---|---|
-| **Abber** | Dream & vision interpretation marketplace: 21K+ users, live sessions, ~30 domains | [App Store](https://apps.apple.com/app/id6461119454) · [Google Play](https://play.google.com/store/apps/details?id=co.abber_dev.abber_app) · [abber.co](https://abber.co) |
+| **Abber** | Dream & vision interpretation marketplace: 23K+ users, live sessions, ~30 domains | [App Store](https://apps.apple.com/app/id6461119454) · [Google Play](https://play.google.com/store/apps/details?id=co.abber_dev.abber_app) · [abber.co](https://abber.co) |
 | **Wisal** | Consultation marketplace: verified vendors, VoIP, double-entry accounting | [App Store](https://apps.apple.com/app/id6755353238) · [Google Play](https://play.google.com/store/apps/details?id=io.somow.wisalapp) · [wisalapp.com](https://wisalapp.com) |
 | **Maskani** | Social real-estate platform on Flutter · Next.js · Django | [maskani.homes](https://maskani.homes) |
 | **Azbah** | Group expense-splitting & settle-up on a double-entry ledger | [App Store](https://apps.apple.com/app/id6761391341) · [Google Play](https://play.google.com/store/apps/details?id=io.somow.azbah) · [azbah.somow.sa](https://azbah.somow.sa) |
