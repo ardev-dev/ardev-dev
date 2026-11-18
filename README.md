@@ -87,6 +87,7 @@ The flagship platform I own and operate, live in production for 6+ months with z
 | **Abber** | Dream & vision interpretation marketplace: 23K+ users, live sessions, ~30 domains | [App Store](https://apps.apple.com/app/id6461119454) · [Google Play](https://play.google.com/store/apps/details?id=co.abber_dev.abber_app) · [abber.co](https://abber.co) |
 | **Wisal** | Consultation marketplace: verified vendors, VoIP, double-entry accounting | [App Store](https://apps.apple.com/app/id6755353238) · [Google Play](https://play.google.com/store/apps/details?id=io.somow.wisalapp) · [wisalapp.com](https://wisalapp.com) |
 | **Maskani** | Social real-estate platform on Flutter · Next.js · Django | [maskani.homes](https://maskani.homes) |
+| **Building Planner** | Construction-planning app: plot to 2D plans, 3D walk-through, MEP layouts, BOQ, cost & schedule, PDF/DXF; offline, React · three.js · Capacitor | [buildingplanner.pages.dev](https://buildingplanner.pages.dev) |
 | **Azbah** | Group expense-splitting & settle-up on a double-entry ledger | [App Store](https://apps.apple.com/app/id6761391341) · [Google Play](https://play.google.com/store/apps/details?id=io.somow.azbah) · [azbah.somow.sa](https://azbah.somow.sa) |
 | **Manam** | Dream-interpretation app (Abber vertical): RSA payments, subscriptions | [App Store](https://apps.apple.com/us/app/id6743326831) · [Google Play](https://play.google.com/store/apps/details?id=co.manams.manam) |
 
