@@ -21,7 +21,7 @@ Analysis · Design · Problem-Solving  ·  Backend · Web · Mobile · Real-time
 
 I'm a **Senior Software Engineer** who builds and operates production systems, not just features. Over the past **six years** I've taken products from an empty repository to live services people rely on daily, across mobile, web, and **Django** backends.
 
-Today I lead engineering at **Somow** and run **Abber**, a platform serving more than **23,000 users** and **47,000 orders** that has stayed online with **zero downtime for over six months**. I rely on method more than on any single framework, so I can move into a new language or domain and deliver in it. I also prepare and submit Somow's bids for **government tenders on Etimad**, from the RFP booklet through the technical and financial proposals.
+Today I lead engineering at **Somow** and run **Abber**, a platform serving more than **23,000 users** that has processed **65,000+ transactions** and stayed online with **zero downtime for over six months**. I rely on method more than on any single framework, so I can move into a new language or domain and deliver in it. I also prepare and submit Somow's bids for **government tenders on Etimad**, from the RFP booklet through the technical and financial proposals.
 
 I've shipped in **Java, Flutter, Django, Next.js, and a multi-agent AI system**, and I use modern AI tools such as Claude Code, Cursor, Copilot, Codex, and Gemini to work faster without lowering the engineering bar.
 
