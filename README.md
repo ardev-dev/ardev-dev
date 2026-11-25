@@ -21,7 +21,7 @@ Analysis · Design · Problem-Solving  ·  Backend · Web · Mobile · Real-time
 
 I'm a **Senior Software Engineer** who builds and operates production systems, not just features. Over the past **six years** I've taken products from an empty repository to live services people rely on daily, across mobile, web, and **Django** backends.
 
-Today I lead engineering at **Somow** and run **Abber**, a platform serving more than **23,000 users** that has processed **65,000+ transactions** and stayed online with **zero downtime for over six months**. I rely on method more than on any single framework, so I can move into a new language or domain and deliver in it. I also prepare and submit Somow's bids for **government tenders on Etimad**, from the RFP booklet through the technical and financial proposals.
+Today I lead engineering at **Somow** and run **Abber**, a platform serving more than **23,000 users** that has processed **66,000+ transactions** and stayed online with **zero downtime for over six months**. I rely on method more than on any single framework, so I can move into a new language or domain and deliver in it. I also prepare and submit Somow's bids for **government tenders on Etimad**, from the RFP booklet through the technical and financial proposals.
 
 I've shipped in **Java, Flutter, Django, Next.js, and a multi-agent AI system**, and I use modern AI tools such as Claude Code, Cursor, Copilot, Codex, and Gemini to work faster without lowering the engineering bar.
 
@@ -29,7 +29,7 @@ I've shipped in **Java, Flutter, Django, Next.js, and a multi-agent AI system**,
 Method     ·  First principles: analysis, system design, problem-solving
 Backbone   ·  Django REST · real-time · payments · mobile + web + backend + AI
 Principle  ·  Enter any domain on demand; I learn whatever the problem needs, fast
-Scale      ·  7.6M+ lines authored · 133 repositories · 12 product ventures
+Scale      ·  7.6M+ lines authored · 133 repositories · 13 product ventures
 ```
 
 ---
@@ -44,7 +44,7 @@ The flagship platform I own and operate, live in production for 6+ months with z
 ![Notifications](https://img.shields.io/badge/Notifications-2.8M%2B-a78bfa?style=flat-square&labelColor=0d1117)
 ![Uptime](https://img.shields.io/badge/Uptime-100%25_·_6%2B_months-22c55e?style=flat-square&labelColor=0d1117)
 
-<sub>Also in production: **65K+** wallet transactions · **40K+** double-entry journal entries · **18K+** ratings · **430K+** user visits.</sub>
+<sub>Also in production: **66K+** wallet transactions · **40K+** double-entry journal entries · **18K+** ratings · **430K+** user visits.</sub>
 
 ---
 
@@ -91,7 +91,7 @@ The flagship platform I own and operate, live in production for 6+ months with z
 | **Azbah** | Group expense-splitting & settle-up on a double-entry ledger | [App Store](https://apps.apple.com/app/id6761391341) · [Google Play](https://play.google.com/store/apps/details?id=io.somow.azbah) · [azbah.somow.sa](https://azbah.somow.sa) |
 | **Manam** | Dream-interpretation app (Abber vertical): RSA payments, subscriptions | [App Store](https://apps.apple.com/us/app/id6743326831) · [Google Play](https://play.google.com/store/apps/details?id=co.manams.manam) |
 
-➡️ **More at [ardev.dev](https://ardev.dev)**, across **12 product organizations**: dream interpretation, consultation, real-estate, delivery & logistics ([Wasselak](https://github.com/wasselak-com) · [Truck-go](https://github.com/Truck-go)), fintech, gaming & AI automation.
+➡️ **More at [ardev.dev](https://ardev.dev)**, across **13 product organizations**: dream interpretation, consultation, real-estate, delivery & logistics ([Wasselak](https://github.com/wasselak-com) · [Truck-go](https://github.com/Truck-go)), fintech, gaming & AI automation.
 
 ---
 
@@ -124,7 +124,7 @@ The flagship platform I own and operate, live in production for 6+ months with z
 
 <div align="center">
 
-**7.6M+ lines authored** · **133 repositories** · **12 product ventures** · **mobile + web + backend**
+**7.6M+ lines authored** · **133 repositories** · **13 product ventures** · **mobile + web + backend**
 
 <sub>📍 Buraydah, Saudi Arabia · Open to senior software engineering & technical leadership roles</sub>
 
